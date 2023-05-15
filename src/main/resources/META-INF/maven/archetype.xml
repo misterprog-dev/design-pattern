@@ -1,5 +1,5 @@
 <archetype>
-  <id>kata</id>
+  <id>com.dsoumaila.pattern</id>
   <sources>
     <source>src/main/java/App.java</source>
   </sources>
